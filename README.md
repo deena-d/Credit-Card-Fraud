@@ -1,5 +1,9 @@
 # Credit-Card-Fraud
 
+<h1>DataSet</h1>
+https://drive.google.com/drive/folders/1pgTspqFEgbKrTD1khuYjiMjI3HPSEj0Z?usp=drive_link
+
+<h1>Steps</h1>
 Step 1 - Collect data
 
 It is to collect the dataset. dataset can be in the form of a **csv** file.Dataset can be taken from the very large dataset community kaggle website .
