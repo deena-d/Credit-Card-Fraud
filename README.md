@@ -37,6 +37,7 @@ We using google collab notebook python lang
 
 
 
+https://github.com/deena-d/Credit-Card-Fraud/assets/107647091/b7e4e0b3-8db5-4a33-bd65-d7d765c9ba9a
 
 
 
@@ -46,5 +47,9 @@ We using google collab notebook python lang
 
 
 
-https://github.com/deena-d/Credit-Card-Fraud/assets/107647091/3e8447a1-fed5-4194-a81b-baa3c109c910
+
+
+
+
+
 
