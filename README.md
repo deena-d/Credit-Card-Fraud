@@ -1,3 +1,8 @@
+## CODSOFT DECEMBER 2024 ML TASK 2 - Credit Card Fraud Detection
+## Main Objective: Fraud Credit Card Data Analysis and Detection.
+This repository contains Python code for detecting credit card fraud using a Random Forest classifier. The code preprocesses transaction data, handles class imbalance, applies dimensionality reduction, and evaluates the model's performance.
+
+
 # Credit-Card-Fraud
 
 <h1>DataSet</h1>
